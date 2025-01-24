@@ -53,7 +53,7 @@ The table below summarizes the model's performance across different train-test s
 ## 🚀 How to Use
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/ioannantreki/ML-Linear-Regression-Coursework.git
+git clone https://github.com/ioannantreki/Linear-Regression-Coursework.git
 cd ML-Linear-Regression-Coursework
 ```
 2. **Install Depedencies**: Use the following command to install the required Python libraries:
